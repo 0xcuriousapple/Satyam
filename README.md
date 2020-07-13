@@ -1,5 +1,15 @@
 # Satyam
-# In development
+# Progress
+
+- [x] Ideation
+- [x] Process- Flow - Algorithms
+- [ ] Decison on Tech Stack
+- [ ] Frontend
+- [ ] Backend
+- [ ] Deployment
+- [ ] Testing
+
+ 
 Anonymous whistleblower
 Satyam...An anonymous whistleblower. Many journalist face life threats just because they published something which they are not supposed to talk about, be it Jamal Khashoggi or many brave journalists who died because of stories they broke. 
 Now consider a web app where you can break a story without revealing your identity,
