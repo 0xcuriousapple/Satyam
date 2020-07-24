@@ -3,8 +3,8 @@
 
 - [x] Ideation
 - [x] Process- Flow - Algorithms
-- [ ] Decison on Tech Stack
-- [ ] Frontend
+- [x] Decison on Tech Stack
+- [x] Frontend
 - [ ] Backend
 - [ ] Deployment
 - [ ] Testing
